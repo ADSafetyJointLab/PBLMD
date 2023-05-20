@@ -1,7 +1,7 @@
 # PBLMD
 The repository aims to identify the performance boundary of lane marking detection algorithms accelerately
 1. [Dataset](#1-Dataset)
-2. [Getting started](#2-Getting started)
+2. [Getting started](#2-getting-started)
 ### 1. Dataset
 #### Dataset
 The dataset we use during research are provided in [dataset](dataset). There are some challenging images we collected from nuScenes and TuSimple, and we mark the lane marking by using GroundTruthLabeler in MATLAB, then provide lane marking areas of each image in their corresponding text files.
